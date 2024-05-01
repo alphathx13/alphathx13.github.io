@@ -1,8 +1,8 @@
 ---
-title: Github Page 설정
-date: 2024-04-18 12:00:00 +0800
-categories: [etc]
-tags: [github, github pages]
+title: Github Page 만들기
+date: 2024-04-20 12:00:00 +0800
+categories: [Github Pages]
+tags: [github, github pages, repo, commit, push]
 math: false
 mermaid: true
 image:
@@ -10,7 +10,7 @@ image:
 ---
 
 <hr style="border:1px solid white">
-[github, github pages]
+[github, github pages, repo, commit]
 
 ## 로컬 폴더내에 깃허브 repo 연동하기
 ```bash
