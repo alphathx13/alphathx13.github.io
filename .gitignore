@@ -18,9 +18,8 @@ package-lock.json
 .idea
 
 # Misc
+.gitignore
+
 # assets/js/dist
 
 # personal files
-_posts/1000-01-01-template.md
-_posts/1000-01-01-config.md
-_posts/to do.txt
