@@ -1,6 +1,6 @@
 ---
 title: Github Page 만들기
-date: 2024-04-20 12:00:00 +0800
+date: 2024-04-26 12:00:00 +0800
 categories: [Github Pages]
 tags: [github, github pages, repo, commit, push]
 math: false
