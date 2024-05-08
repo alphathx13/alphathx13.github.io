@@ -89,10 +89,10 @@ git push origin master
 
 <hr style="border:1px solid white">
 
->![333](https://github.com/alphathx13/alphathx13.github.io/assets/163115993/24c1bd26-a41c-44eb-b726-8e6bbef5b556){: .normal}
+>!![111](https://github.com/alphathx13/alphathx13.github.io/assets/163115993/4131ece8-0ef5-46d7-8fb2-acbe718b0057){: .normal}
 - 만약, git push 에서 다음과 같은 에러가 발생할경우, set-url 을 수정
 
->![444](https://github.com/alphathx13/alphathx13.github.io/assets/163115993/75ef138a-f160-4c06-959d-f68273b24650){: .normal}
+>![222](https://github.com/alphathx13/alphathx13.github.io/assets/163115993/dd296dbb-3d3e-4250-95c9-c9335281eb06){: .normal}
 - 정상적으로 push 됨을 확인
 
 <hr style="border:1px solid white">
