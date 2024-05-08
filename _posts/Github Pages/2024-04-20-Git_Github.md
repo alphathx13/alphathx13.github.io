@@ -1,16 +1,15 @@
 ---
 title: Git / Github
 date: 2024-04-20 12:00:00 +0800
-categories: [Github Pages]
+categories: [Github]
 tags: [github, git, repository, repo, commit, push]
 math: false
 mermaid: true
 image:
-  path: assets/img/etc.jpg
+  path: assets/img/github.png
 ---
 
 <hr style="border:1px solid white">
-[github, github pages, repo, commit]
 
 ## Git / Github ?
 ```

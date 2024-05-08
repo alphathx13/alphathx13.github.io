@@ -1,16 +1,15 @@
 ---
 title: Github Page 만들기
 date: 2024-04-26 12:00:00 +0800
-categories: [Github Pages]
+categories: [Github]
 tags: [github, github pages, repo, commit, push]
 math: false
 mermaid: true
 image:
-  path: assets/img/etc.jpg
+  path: assets/img/github.png
 ---
 
 <hr style="border:1px solid white">
-[github, github pages, repo, commit]
 
 ## 로컬 폴더내에 깃허브 repo 연동하기
 ```bash
