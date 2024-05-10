@@ -100,3 +100,18 @@ git push origin master
 
 ![555](https://github.com/alphathx13/alphathx13.github.io/assets/163115993/3e86738a-54b1-4499-b0fe-d968eac1c832){: .normal}
 - repo에서 commit 사항을 확인
+
+<br/><br/>
+
+## 이미 push가 끝난 git commit 삭제
+```bash
+git log
+git reset HEAD^
+git reset HEAD~n
+git push -f origin "branch name"
+```
+- git log를 통해 commit 목록을 확인
+- git reset HEAD^ : 가장 최근 commit을 삭제
+- git reset HEAD^n : 최근 n개의 commit을 삭제
+- git push -f origin "branch name" : reset으로 삭제한 commit 정보를 github에 push
+- 이때 해당 commit 내역이 완전히 삭제되기때문에 주의해야함
